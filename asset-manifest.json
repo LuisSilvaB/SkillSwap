@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5250fa6c.css",
+    "main.js": "/static/js/main.7e022e4c.js",
+    "static/js/787.9d2cee46.chunk.js": "/static/js/787.9d2cee46.chunk.js",
+    "static/media/FondoInicio.webp": "/static/media/FondoInicio.c5912485a3c4df14509d.webp",
+    "static/media/Videojuegos.jpg": "/static/media/Videojuegos.aeb6d9067fe147875a49.jpg",
+    "static/media/Escritura.jpg": "/static/media/Escritura.af6009724fecb152a1e2.jpg",
+    "static/media/Programacion.jpg": "/static/media/Programacion.644030d05ded31916f0f.jpg",
+    "static/media/FondoLogin2.webp": "/static/media/FondoLogin2.4bf1b756a158db452e39.webp",
+    "static/media/Oratoria.jpg": "/static/media/Oratoria.69c21c1a76e880e4008e.jpg",
+    "static/media/Finanzas.webp": "/static/media/Finanzas.a3866dd64b497fbcacf2.webp",
+    "static/media/Canto.jpg": "/static/media/Canto.52e5f4f8a37d46a342c6.jpg",
+    "index.html": "/index.html",
+    "main.5250fa6c.css.map": "/static/css/main.5250fa6c.css.map",
+    "main.7e022e4c.js.map": "/static/js/main.7e022e4c.js.map",
+    "787.9d2cee46.chunk.js.map": "/static/js/787.9d2cee46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5250fa6c.css",
+    "static/js/main.7e022e4c.js"
+  ]
+}
